@@ -39,7 +39,7 @@ It will select the files to be copied by the following criteria:
 1.file was created in the specified date range and 
 2.has one of the surnames from surnames_to_wg.txt in the file name
 
-If both criteria are met the script will create the following dir_structure in backup_path:
+If both criteria are met the script will create the following dir_structure in backup_path (cx is just an example):
 
 ├── AG_someone   
 │   ├── John   
@@ -70,7 +70,7 @@ If both criteria are met the script will create the following dir_structure in b
     │   ├── MS002   
     │   │   └── MS002_Lisa_cx.tif   
     │   └── MS_missing   
-    │       └── MS_missing_Lisa_cx.tif   
+    │       └── Lisa_cx.tif   
     ├── Mary   
     │   ├── MS001   
     │   │   └── MS001_Mary_cx.tif   
