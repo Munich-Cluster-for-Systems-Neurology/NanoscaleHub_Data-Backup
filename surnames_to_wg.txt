@@ -1,2 +1,3 @@
-Georg, AG Fetting
-Martina, AG Fetting
+Georg, AG_Fetting
+Martina, AG_Fetting
+Max, AG_Mustermann
