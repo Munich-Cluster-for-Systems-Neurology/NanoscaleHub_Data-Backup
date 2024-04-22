@@ -1,0 +1,2 @@
+source_path=Y:\
+backup_path=F:\Backup_2023-01-01_2024-04-18\
