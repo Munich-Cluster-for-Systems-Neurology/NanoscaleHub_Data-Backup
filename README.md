@@ -36,7 +36,7 @@ end_date=2024-04-18
 Once set up, the script will go through all files in the directory source_path, the paths.txt points to.
 It will select the files to be copied by the following criteria:
 
-1.file was created in the specified date range and 
+1.file was created in the specified date range and    
 2.has one of the surnames from surnames_to_wg.txt in the file name
 
 If both criteria are met the script will create the following dir_structure in backup_path (cx is just an example):
