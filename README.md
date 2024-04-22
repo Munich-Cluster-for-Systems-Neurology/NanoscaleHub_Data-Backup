@@ -41,50 +41,50 @@ It will select the files to be copied by the following criteria:
 
 If both criteria are met the script will create the following dir_structure in backup_path:
 
-├── AG_someone
-│   ├── John
-│   │   ├── MS001
-│   │   │   └── MS001_John_cx.tif
-│   │   ├── MS002
-│   │   │   └── MS002_John_cx.tif
-│   │   └── MS_missing
-│   │       └── John_cx.tif
-│   ├── Jeff
-│   │   ├── MS001
-│   │   │   └── MS001_Jeff_cx.tif
-│   │   ├── MS002
-│   │   │   └── MS002_Jeff_cx.tif
-│   │   └── MS_missing
-│   │       └── Jeff_cx.tif
-│   └── [others]
-│       ├── MS001
-│       │   └── MS001_[name]_cx.tif
-│       ├── MS002
-│       │   └── MS002_[name]_cx.tif
-│       └── MS_missing
-│           └── [name]_cx.tif
-└── AG_anotherone
-    ├── Lisa
-    │   ├── MS001
-    │   │   └── MS001_Lisa_cx.tif
-    │   ├── MS002
-    │   │   └── MS002_Lisa_cx.tif
-    │   └── MS_missing
-    │       └── MS_missing_Lisa_cx.tif
-    ├── Mary
-    │   ├── MS001
-    │   │   └── MS001_Mary_cx.tif
-    │   ├── MS002
-    │   │   └── MS002_Mary_cx.tif
-    │   └── MS_missing
-    │       └── Mary_cx.tif
-    └── [others]
-        ├── MS001
-        │   └── MS001_[name]_cx.tif
-        ├── MS002
-        │   └── MS002_[name]_cx.tif
-        └── MS_missing
-            └── [name]_cx.tif
+├── AG_someone   
+│   ├── John   
+│   │   ├── MS001   
+│   │   │   └── MS001_John_cx.tif   
+│   │   ├── MS002   
+│   │   │   └── MS002_John_cx.tif   
+│   │   └── MS_missing   
+│   │       └── John_cx.tif   
+│   ├── Jeff   
+│   │   ├── MS001   
+│   │   │   └── MS001_Jeff_cx.tif   
+│   │   ├── MS002   
+│   │   │   └── MS002_Jeff_cx.tif   
+│   │   └── MS_missing   
+│   │       └── Jeff_cx.tif   
+│   └── [others]   
+│       ├── MS001   
+│       │   └── MS001_[name]_cx.tif   
+│       ├── MS002   
+│       │   └── MS002_[name]_cx.tif   
+│       └── MS_missing   
+│           └── [name]_cx.tif   
+└── AG_anotherone   
+    ├── Lisa   
+    │   ├── MS001   
+    │   │   └── MS001_Lisa_cx.tif   
+    │   ├── MS002   
+    │   │   └── MS002_Lisa_cx.tif   
+    │   └── MS_missing   
+    │       └── MS_missing_Lisa_cx.tif   
+    ├── Mary   
+    │   ├── MS001   
+    │   │   └── MS001_Mary_cx.tif   
+    │   ├── MS002   
+    │   │   └── MS002_Mary_cx.tif   
+    │   └── MS_missing   
+    │       └── Mary_cx.tif   
+    └── [others]   
+        ├── MS001   
+        │   └── MS001_[name]_cx.tif   
+        ├── MS002   
+        │   └── MS002_[name]_cx.tif   
+        └── MS_missing   
+            └── [name]_cx.tif   
 
     
       
